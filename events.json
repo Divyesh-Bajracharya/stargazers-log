@@ -1,0 +1,30 @@
+[
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "url": "https://github.com/microsoft/vscode",
+    "stars": 204000,
+    "language": "TypeScript"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "stars": 412000,
+    "language": "JavaScript"
+  },
+  {
+    "name": "facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "url": "https://github.com/facebook/react",
+    "stars": 236000,
+    "language": "JavaScript"
+  },
+  {
+    "name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "stars": 89000,
+    "language": "CSS"
+  }
+]
